@@ -1,2 +1,2 @@
 #!/bin/bash
-docker exec -it test_App_1 /opt/test.sh
+docker exec -it blitz_App_1 /opt/test.sh
