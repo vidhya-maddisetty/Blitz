@@ -15,6 +15,7 @@ services:
     depends_on:
      - db
     image: trac
+    container_name: blitz_App_1
     ports:
      - "8098:8098"
     restart: always
